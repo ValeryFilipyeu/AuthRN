@@ -3,4 +3,5 @@
 - React Context
 - AsyncStorage
 - dotenv
-- Expo Loading
+- expo-splash-screen
+- jest
